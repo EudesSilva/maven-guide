@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/EudesSilva/maven-guide.svg?branch=master)](https://travis-ci.org/leandrocgsi/erudio-api-oauth2)
+
 
 #maven-guide
 
@@ -183,7 +185,7 @@ This is a listing of the elements directly under the POM's project element. Noti
 <li><a class="externalLink" href="http://maven.apache.org/ref/current/maven-settings/apidocs/">Maven Settings</a></li></ul>
 <p>You could also browse the <a class="externalLink" href="http://maven.apache.org/ref/current/">full technical documentation references</a> of the current version of Maven.</p>
 
- <p>Copyright ©2002 – 2016
+ <p>Copyright Â©2002 Â– 2016
 <a href="https://www.apache.org/">The Apache Software Foundation</a>.
 All rights reserved.</p>
 
